@@ -102,6 +102,7 @@ public class Test {
         st.sleep();
         st.study();
         st.show();
+		System.out.println("我被更改了");
 
         Teacher t= new Teacher("李四","女",22);
         t.eat();
