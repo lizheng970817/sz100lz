@@ -103,7 +103,7 @@ public class Test {
         st.study();
         st.show();
 		System.out.println("我被更改了");
-
+		System.out.println("奇怪");
         Teacher t= new Teacher("李四","女",22);
         t.eat();
         t.sleep();
